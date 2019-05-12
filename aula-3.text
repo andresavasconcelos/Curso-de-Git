@@ -50,7 +50,7 @@ push ->> enviou coisas para p repositório
 
 ao fazer o comando:
 
-git config ---globas push.default simple
+git config ---global push.default simple
 
 -> git push origin master é necessário fazer uma unica vez, pq nas proximas somente git push ele ja entede que vc alterará a brand master já que ele estará configurado
 
