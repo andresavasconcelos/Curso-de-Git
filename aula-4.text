@@ -22,4 +22,5 @@ git diff HEAD (mostra as diferenças)
 git diff HEAD~1 (compara a diferença do commit atual para o commit anterior)
 
 
+blabla
 
