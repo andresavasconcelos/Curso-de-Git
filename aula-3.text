@@ -1,0 +1,77 @@
+** CRIANDO UM REPOSITORIO REMOTO **
+
+** Sumário **
+
+git status
+git log
+git add
+git commit
+git push
+
+
+->> crie um repositorio
+
+->> configure um repositorio remoto
+
+->> crie um arquivo README.ms
+
+->> faça o upload das alterãções
+
+git remote add <remorte> (pode ser origem (githuib) ou origin (bitbucket ou gitlab)) <url (pode ser htpps ou ssh (esse tem que configurar))>
+
+
+repositório publuco ou privado
+
+
+** TELA DE CONFIGURAÇÃO PARA SUBIR O PRIMEIRO COMMIT DO PROJETO **
+
+Dentro da pasta digite:
+
+** após criar o primeiro repositorio **
+
+git init
+git add README.md (aconselhávél mais opcional)
+git commit -m "my first commit"
+git remote add origin <url>
+git push -u origin master
+
+** colocar um repositorio que já existe no github **
+git remote add origin <url>
+git push -u origin master ** (ver mais abaxo mais informações)
+
+** verificar se você baixou ou envio coisas para o repositório **
+
+git remote -v
+
+fetch ->> baixou
+push ->> enviou coisas para p repositório
+
+** CONFIGURANDO O push **
+
+ao fazer o comando:
+
+git config ---globas push.default simple
+
+-> git push origin master é necessário fazer uma unica vez, pq nas proximas somente git push ele ja entede que vc alterará a brand master já que ele estará configurado
+
+git push
+
+**  CRIAR UM ARQUIVO README.md **
+
+arquivo que fica na parte incial do projeto com informações necessárias daquele projeto ali
+
+# Titulo
+
+mensagem 
+
+![./imagem.png(caminho da imagem)](mensagem sobre a imagem]
+
+*** ESTUDAR MARDOWN PARA DEIXAR O README BONITÃO ***
+->> dar uma lida
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+Aula de GitHub
+
+Diferença de HTTPS e SSH quando você for criar um projeto.
+
+HHTPS é necessário digitar a senha sempre.
+
+SSH já faz a autenticação automática, logo não é necessário fazer login toda vez que fazer commit, isso dentro de algumas plataformas.
+
+https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+** PESQUISAR COMO FAZER A CONFIG PARA SSH **
+
+GIT help -- documentação --> PDF
+
+
+https://git-scm.com/

@@ -1,0 +1,21 @@
+** CRIANDO UM REPOSITÓRIO **
+
+git init
+
+git add .
+
+->> há possibilidade de configurar quem é você 
+
+->> git config ->> "name" ->> "email"
+
+git commit -m "nome do commit"
+
+*** STATUS ***
+
+git status -->> SE PRECISA FAZER COMMIT
+
+git log ->> informações dos ultimos commits
+
+
+
+

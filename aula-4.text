@@ -1,0 +1,25 @@
+** REVISÃO DOS COMANDOS **
+
+ele modificou o arquivo
+
+deu git status
+
+->> git add .  (para atualizar o que será submetido)
+->> git checkout (pata descartar mudanças no diretótio de trabalho)
+
+** ESTADOS DO ARQUIVOS **
+
+não modificado (untracked)
+modificado (modified)
+preparado (staged)
+consolidado (commited)
+
+** GIT DIFF **
+
+git diff (exibir diferenças entre commits)
+
+git diff HEAD (mostra as diferenças)
+git diff HEAD~1 (compara a diferença do commit atual para o commit anterior)
+
+
+
